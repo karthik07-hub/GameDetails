@@ -29,7 +29,7 @@ public class Game_Details_app {
       GameDetails gameDetails10=new GameDetails("g5","p10",320,3140);
       gameDetailslist.add(gameDetails10);
 		
-		/* checks for the game details using the game id*/
+		/* checks for the game details using the game id info*/
 	System.out.println("Enter the Game Id:");
 	Scanner myObj = new Scanner(System.in);
 	String gameId =myObj.nextLine();
